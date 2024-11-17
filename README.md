@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="Header GIF" width="800">
+  <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="Header GIF" width="500">
 </div>
 
 <div align="center">
@@ -10,6 +10,11 @@
 
 I am a developer who loves creating from both a **visual and functional perspective** to make things **intuitive and accessible**, while diving into the **technical details**: how applications work, how to design algorithms, and how to optimize systems.
 
+
+<div align="left">
+
+## <img src="https://github.com/Quathar/Quathar/assets/99633210/f587a4c6-7e85-4207-93fe-6132fe89dc62" alt="About me" width="22" /> About me
+
 <div align="left">
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/ryimiZFDKJANcgHlWL/giphy.gif?cid=790b76114n3o3eybde8rciqsaz7achtonykudeylyrcsflvp&ep=v1_stickers_search&rid=giphy.gif&ct=s">
@@ -18,19 +23,18 @@ I am a developer who loves creating from both a **visual and functional perspect
 
 * 🚀 In my projects, I’m using **FastAPI** for backend development and **Figma** for UI/UX design.
 
-* 🌱 I’m currently learning about **AI**, **LangChain**, and how to integrate them into real-world applications.
+* 🌱 I’m currently learning about **AI**, **LangChain**
 
 * 💬 Ask me about **FastAPI**, **Python**, or **UX/UI design** workflows.
 
-* 📫 Contact me at **aliciasj.2003@gmail.com** or on [LinkedIn](#).
+* 📫 Contact me at **aliciasj.2003@gmail.com**
+  
+* ⚡ Fun Fact : I love skating like Frozone ! 🛼❄️ 
 
 </div>
 
   </tr>
 </table>
-
-###⚡ Fun Fact  
-I love skating like Frozone ! 🛼❄️ 
 
 
 <h3 align="left">Connect with me:</h3>
