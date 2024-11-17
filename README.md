@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm Alicia San Julián</h1>
-<h3 align="center">Tech Enthusiast & Junior Developer</h3>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" alt="Header GIF" width="800">
+</div>
 
-- 🛠️ I’m currently working in **R&D** 
-- 🚀 In my projects, I’m using **FastAPI** for backend development and **Figma** for UI/UX design.  
-- 🌱 I’m currently learning about **AI**, **LangChain**
-- 💬 Ask me about **FastAPI**, **Python**, or **UX/UI design** workflows.  
-- 📫 How to reach me: **aliciasj.2003@gmail.com** 
- ### ⚡ Fun Fact  
+<div align="center">
+
+# Hi <img src="https://github.com/Quathar/Quathar/assets/99633210/9d7f2e77-3014-4d6e-9760-500cca2cc49a" width="32" /> I'm Alicia San Julián
+
+### `Tech Enthusiast & Junior Developer`
+
+I am a developer who loves creating from both a **visual and functional perspective** to make things **intuitive and accessible**, while diving into the **technical details**: how applications work, how to design algorithms, and how to optimize systems.
+
+<div align="left">
+
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/ryimiZFDKJANcgHlWL/giphy.gif?cid=790b76114n3o3eybde8rciqsaz7achtonykudeylyrcsflvp&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+
+* 🛠️ I’m currently working in **R&D**, exploring innovative solutions.
+
+* 🚀 In my projects, I’m using **FastAPI** for backend development and **Figma** for UI/UX design.
+
+* 🌱 I’m currently learning about **AI**, **LangChain**, and how to integrate them into real-world applications.
+
+* 💬 Ask me about **FastAPI**, **Python**, or **UX/UI design** workflows.
+
+* 📫 Contact me at **aliciasj.2003@gmail.com** or on [LinkedIn](#).
+
+</div>
+
+  </tr>
+</table>
+
+###⚡ Fun Fact  
 I love skating like Frozone ! 🛼❄️ 
 
 
