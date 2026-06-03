@@ -6,9 +6,9 @@
 
 # Hi <img src="https://github.com/Quathar/Quathar/assets/99633210/9d7f2e77-3014-4d6e-9760-500cca2cc49a" width="32" /> I'm Alicia San Julián
 
-### `Tech Enthusiast & Junior Developer`
+### `TBackend & GenAI Engineer`
 
-I am a developer who loves creating from both a **visual and functional perspective** to make things **intuitive and accessible**, while diving into the **technical details**: how applications work, how to design algorithms, and how to optimize systems.
+I build intelligent systems that combine backend engineering, data processing, and Generative AI. I enjoy designing scalable architectures, developing robust APIs, and transforming data into solutions that automate and improve business processes.
 
 
 <div align="left">
@@ -19,17 +19,21 @@ I am a developer who loves creating from both a **visual and functional perspect
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/ryimiZFDKJANcgHlWL/giphy.gif?cid=790b76114n3o3eybde8rciqsaz7achtonykudeylyrcsflvp&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
-* 🛠️ I’m currently working in **R&D**, exploring innovative solutions.
-
-* 🚀 In my projects, I’m using **FastAPI** for backend development and **Figma** for UI/UX design.
-
-* 🌱 I’m currently learning about **AI**, **LangChain**
-
-* 💬 Ask me about **FastAPI**, **Python**, or **UX/UI design** workflows.
-
-* 📫 Contact me at **aliciasj.2003@gmail.com**
+* 🛠️ Currently working as a Backend & GenAI Engineer, building AI-powered solutions and backend services.
   
-* ⚡ Fun Fact : I love skating like Frozone ! 🛼❄️ 
+* 🤖 Developing applications with LLMs, RAG systems, AI agents, and vector databases.
+  
+* 📊 Working on data pipelines, analytics workflows, and Lakehouse architectures using Pandas and PySpark.
+  
+* 🚀 Building scalable APIs with FastAPI, following clean architecture and cloud-native practices.
+  
+* 🌱 Currently expanding my knowledge in Agentic AI, MLOps, and Data Engineering.
+  
+* 💬 Ask me about Python, FastAPI, LangChain, LangGraph, RAG, or Backend Architecture.
+  
+* 📫 Contact me at aliciasj.2003@gmail.com
+  
+* ⚡ Fun Fact: I love skating like Frozone! 🛼❄️
 
 </div>
 
